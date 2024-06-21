@@ -6,6 +6,14 @@ A comprehensive guide to 3D printing technologies and materials, focusing on the
 ## Introduction
 This repository aims to provide 3D printing enthusiasts with detailed information on the best printing technologies and materials for creating custom keyboard components. Whether you're a beginner or an experienced maker, you'll find valuable insights and practical tips here.
 
+### 3D Printing Basics
+3D printing, also known as additive manufacturing, is a process of creating three-dimensional objects from a digital file. Here are the main types of 3D printing technologies:
+
+- **FDM (Fused Deposition Modeling):** Works by melting and extruding thermoplastic filament, which a nozzle deposits layer by layer to build up the model. It's the most common and cost-effective method.
+- **SLA (Stereolithography):** Uses a laser to cure liquid resin into solid plastic in a process called photopolymerization. It produces high-resolution parts with a smooth finish.
+- **SLS (Selective Laser Sintering):** Uses a laser to sinter powdered nylon into solid structures. It’s known for creating strong and durable parts.
+- **MJF (Multi Jet Fusion):** Uses a printing head to apply fusing agents to a bed of nylon powder, which are then fused by heating elements. This produces highly detailed and strong parts.
+
 ## Table of Contents
 1. [3D Printing Technologies and Materials Suitability Table](#3d-printing-technologies-and-materials-suitability-table)
 2. [Overall Suitability Summary](#overall-suitability-summary)
@@ -67,10 +75,28 @@ This repository aims to provide 3D printing enthusiasts with detailed informatio
 *Coming soon*
 
 ## Use Cases and Examples
-*Coming soon*
+### Example 1: Corne Keyboard Case
+- **Technology:** FDM (PLA)
+- **Description:** A simple, two-piece keyboard case. PLA is used for its ease of printing and adequate durability for this type of case.
+
+### Example 2: TBK Mini Keyboard Case with Brass Inserts
+- **Technology:** SLS (Nylon)
+- **Description:** A robust case designed to accommodate brass inserts for added durability and structural integrity. SLS Nylon is chosen for its strength and ability to handle the inserts.
+
+### Example 3: Custom Keycaps
+- **Technology:** SLA (Standard Resin)
+- **Description:** High-detail keycaps with a smooth finish. SLA resin is chosen for its excellent surface quality and detail resolution.
 
 ## Best Practices
-*Coming soon*
+### Keyboard Cases
+- **Mounting Points:** Ensure holes for screws or inserts are appropriately sized.
+- **Tolerance:** Account for slight variations in print dimensions by including tolerances in your design.
+- **Support Structures:** Design with minimal overhangs to reduce the need for support structures.
+
+### Keycaps
+- **Stem Fit:** Ensure the stem dimensions are precise to fit securely on switches.
+- **Surface Finish:** Design for a smooth top surface to enhance the tactile feel and aesthetics.
+- **Durability:** Choose materials that can withstand frequent use without degrading.
 
 ## Resources
 *Coming soon*
@@ -80,3 +106,5 @@ This repository aims to provide 3D printing enthusiasts with detailed informatio
 
 ## Community Contributions
 *Coming soon*
+
+Thank you for your feedback and support!
