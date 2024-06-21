@@ -1,5 +1,23 @@
-# 3D Printing Technologies and Materials Suitability Table
+# Keyboard_3D_Printing_Guide
 
+## Description
+A comprehensive guide to 3D printing technologies and materials, focusing on their suitability for creating keyboard bases and keycaps. Includes detailed descriptions and suitability rankings for various 3D printing methods and materials.
+
+## Introduction
+This repository aims to provide 3D printing enthusiasts with detailed information on the best printing technologies and materials for creating custom keyboard components. Whether you're a beginner or an experienced maker, you'll find valuable insights and practical tips here.
+
+## Table of Contents
+1. [3D Printing Technologies and Materials Suitability Table](#3d-printing-technologies-and-materials-suitability-table)
+2. [Overall Suitability Summary](#overall-suitability-summary)
+3. [Descriptions](#descriptions)
+4. [Detailed Material Properties](#detailed-material-properties)
+5. [Use Cases and Examples](#use-cases-and-examples)
+6. [Best Practices](#best-practices)
+7. [Resources](#resources)
+8. [FAQ](#faq)
+9. [Community Contributions](#community-contributions)
+
+## 3D Printing Technologies and Materials Suitability Table
 | 3D Printing Technology | Materials                    | Keyboard Bases Suitability | Keycaps Suitability |
 |------------------------|------------------------------|----------------------------|---------------------|
 | **MJF (Nylon)**        | PA12, PA11                   | 10/10                      | 9/10                |
@@ -14,7 +32,6 @@
 |                        | Flexible Resin               | 4/10                       | 3/10                |
 
 ## Overall Suitability Summary
-
 | Rank | 3D Printing Technology | Keyboard Bases Suitability | Keycaps Suitability |
 |------|------------------------|----------------------------|---------------------|
 | 1    | MJF (Nylon)            | 10/10                      | 9/10                |
@@ -45,3 +62,23 @@
 ### **SLA (Resin)**
 - **Materials:** Standard Resin, Tough Resin, Flexible Resin
 - **Description:** Stereolithography (SLA) uses a laser to cure liquid resin into solid parts. SLA prints have excellent surface finish and detail but can be brittle. Tough resins improve durability, while flexible resins add elasticity. SLA is suitable for detailed keycaps but less ideal for structural parts like keyboard bases.
+
+## Detailed Material Properties
+*Coming soon*
+
+## Use Cases and Examples
+*Coming soon*
+
+## Best Practices
+*Coming soon*
+
+## Resources
+*Coming soon*
+
+## FAQ
+*Coming soon*
+
+## Community Contributions
+*Coming soon*
+
+Thank you for your feedback and support!
