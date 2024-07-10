@@ -40,6 +40,7 @@ This repository aims to provide 3D printing enthusiasts with detailed informatio
 |                        | ASA                    | 8/10                                          | 8/10                                              | 7/10                |
 |                        | TPU                    | 5/10                                          | 6/10                                              | 5/10                |
 |                        | PA12-CF (Carbon Fiber) | 9/10                                          | 9/10                                              | 8/10                |
+|                        | PETG                   | 7/10                                          | 8/10                                              | 7/10                |
 | **SLA (Resin)**        | Standard Resin         | 5/10                                          | 7/10                                              | 8/10                |
 |                        | Tough Resin            | 6/10                                          | 8/10                                              | 8/10                |
 |                        | Flexible Resin         | 4/10                                          | 6/10                                              | 5/10                |
@@ -55,9 +56,9 @@ This repository aims to provide 3D printing enthusiasts with detailed informatio
 | 5    | FDM (ASA)              | 8/10                                          | 8/10                                              | 7/10                |
 | 6    | SLA (Tough Resin)      | 6/10                                          | 8/10                                              | 8/10                |
 | 7    | SLA (Standard Resin)   | 5/10                                          | 7/10                                              | 8/10                |
-| 8    | FDM (PLA)              | 6/10                                          | 7/10                                              | 6/10                |
-| 9    | FDM (TPU)              | 5/10                                          | 6/10                                              | 5/10                |
-| 10   | SLA (Flexible Resin)   | 4/10                                          | 6/10                                              | 5/10                |
+| 8    | FDM (PETG)             | 7/10                                          | 8/10                                              | 7/10                |
+| 9    | FDM (PLA)              | 6/10                                          | 7/10                                              | 6/10                |
+| 10   | FDM (TPU)              | 5/10                                          | 6/10                                              | 5/10                |
 
 ## Descriptions
 
